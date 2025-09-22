@@ -5,12 +5,12 @@
  ___
 
  ## Content:
- Project Overview| Data Source| Tools Used| Table Outlay| Qery Languages (SQL)| Visualization
+ Project Overview| Data Source| Tools Used| Table Outlay| Query Languages (SQL)| Visualization
 
 ___
 
 ## Project Overview:
->> This Project analyses all the sales of Mobile Sales products and shows various attributes such as Brands, Customer Gender, Payment Method Using Pivot table, This analysis helps to understand the key factors of sales in dataset.
+>> This Project analyzes the sales of Mobile Sales products and shows various attributes such as Brands, Customer Gender, Payment Method Using Pivot table, This analysis helps to understand the key factors of sales in dataset.
 
 ___
 
