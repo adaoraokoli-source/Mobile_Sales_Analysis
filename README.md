@@ -67,3 +67,6 @@ ORDER BY expensive_brand DESC;
 ## Visualization:
 + PowerBi
 ![IMG-20250828-WA0009](https://github.com/user-attachments/assets/547112a3-53bb-4a7b-a19f-e938b48e4f7a)
+
+## Single Visual:
+[link to Chart](
