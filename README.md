@@ -62,16 +62,9 @@ SELECT brand, MAX(price) AS expensive_brand FROM [mobile_sales (1)]
 GROUP BY brand
 ORDER BY expensive_brand DESC;
 
----How many brands are there?---
+```
 
 ## Visualization:
 + PowerBi
 
 ![IMG-20250828-WA0009](https://github.com/user-attachments/assets/d7aa4ab6-9fb4-4f62-8ac2-1657177bfd34)
-
-
-
-
-
-
-```
