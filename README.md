@@ -64,6 +64,10 @@ ORDER BY expensive_brand DESC;
 
 ---How many brands are there?---
 
+## Visualization:
++ PowerBi
+
+
 
 
 
